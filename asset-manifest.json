@@ -1,19 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.7802b9bf.css",
-    "main.js": "/static/js/main.47bdcf36.js",
+    "main.js": "/static/js/main.520b7369.js",
     "static/js/787.5809834d.chunk.js": "/static/js/787.5809834d.chunk.js",
     "static/media/portfolio-visualizer.png": "/static/media/portfolio-visualizer.8c265e0fd3f1ca8bad22.png",
     "static/media/resume.pdf": "/static/media/resume.f14327406cbc3f878623.pdf",
-    "static/media/tiktok-logo.png": "/static/media/tiktok-logo.f6caf133d5bbb374e098.png",
-    "static/media/ivyscope.png": "/static/media/ivyscope.0c7595b4b9c3219c7229.png",
     "index.html": "/index.html",
     "main.7802b9bf.css.map": "/static/css/main.7802b9bf.css.map",
-    "main.47bdcf36.js.map": "/static/js/main.47bdcf36.js.map",
+    "main.520b7369.js.map": "/static/js/main.520b7369.js.map",
     "787.5809834d.chunk.js.map": "/static/js/787.5809834d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7802b9bf.css",
-    "static/js/main.47bdcf36.js"
+    "static/js/main.520b7369.js"
   ]
 }
